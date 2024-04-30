@@ -23,6 +23,7 @@ $RECYCLE.BIN/
 # Build and Release Folders
 bin-debug/
 bin-release/
+scripts
 
 # Project property files
 .actionScriptProperties
